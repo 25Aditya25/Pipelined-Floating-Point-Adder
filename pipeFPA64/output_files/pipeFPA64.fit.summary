@@ -1,0 +1,16 @@
+Fitter Status : Successful - Mon Aug 16 16:37:20 2021
+Quartus Prime Version : 18.1.0 Build 625 09/12/2018 SJ Lite Edition
+Revision Name : pipeFPA64
+Top-level Entity Name : checker2
+Family : Cyclone IV E
+Device : EP4CE22F17C6
+Timing Models : Final
+Total logic elements : 341 / 22,320 ( 2 % )
+    Total combinational functions : 337 / 22,320 ( 2 % )
+    Dedicated logic registers : 169 / 22,320 ( < 1 % )
+Total registers : 169
+Total pins : 3 / 154 ( 2 % )
+Total virtual pins : 0
+Total memory bits : 0 / 608,256 ( 0 % )
+Embedded Multiplier 9-bit elements : 0 / 132 ( 0 % )
+Total PLLs : 0 / 4 ( 0 % )
